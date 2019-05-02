@@ -30,3 +30,4 @@
 #   process the new txn and calculate Acc int
 #       Acc int = blance * int rate /365 * number of days between days
 #   If txn type is int post the acc int and get user to confirm/correct amount
+#     if posting int clear the acc int
