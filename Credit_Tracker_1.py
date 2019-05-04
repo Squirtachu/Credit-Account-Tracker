@@ -27,7 +27,8 @@
 #   Get Txn Type
 #   Get Txn Amount
 #   Get txn Description
-#   process the new txn and calculate Acc int
+#   process the new txn and calculate Acc int and bew balance
 #       Acc int = blance * int rate /365 * number of days between days
 #   If txn type is int post the acc int and get user to confirm/correct amount
-#     if posting int clear the acc int
+#   Clear the Acc int total
+
